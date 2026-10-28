@@ -87,9 +87,9 @@ Full screenshots are in [`docs/screenshots/`](docs/screenshots/):
 - `add_tasks.png`: adding tasks
 - `invalid_input.png`: invalid input handled
 - `view_and_complete.png`: completing and viewing tasks
-- `search_summary_delete.png`: search, summary and delete
+- `search.png`: searching tasks
+- `summary.png`: the task summary
 - `persistence_after_restart.png`: tasks still there after restarting
-- `tasks_json_file.png`: the saved JSON file
 - `unit_tests_pass.png`: all unit tests passing
 
 ## What I Learned
